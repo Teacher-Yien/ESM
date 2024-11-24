@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\esm-dotnetproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A340CF2-FE84-4BDB-A28C-A4DDBFAD7BA4}|EmployeeSalaryMGProj.csproj|c:\\users\\administrator\\desktop\\esm-dotnetproject\\salarypayments\\frmchooseemployeetogetslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A340CF2-FE84-4BDB-A28C-A4DDBFAD7BA4}|EmployeeSalaryMGProj.csproj|solutionrelative:salarypayments\\frmchooseemployeetogetslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A340CF2-FE84-4BDB-A28C-A4DDBFAD7BA4}|EmployeeSalaryMGProj.csproj|c:\\users\\administrator\\desktop\\esm-dotnetproject\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A340CF2-FE84-4BDB-A28C-A4DDBFAD7BA4}|EmployeeSalaryMGProj.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmChooseEmployeeToGetSlip.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\esm-dotnetproject\\SalaryPayments\\FrmChooseEmployeeToGetSlip.cs",
+              "RelativeDocumentMoniker": "SalaryPayments\\FrmChooseEmployeeToGetSlip.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\esm-dotnetproject\\SalaryPayments\\FrmChooseEmployeeToGetSlip.cs [Design]",
+              "RelativeToolTip": "SalaryPayments\\FrmChooseEmployeeToGetSlip.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:03:44.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\esm-dotnetproject\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\esm-dotnetproject\\FrmHome.cs [Design]",
+              "RelativeToolTip": "FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:02:56.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

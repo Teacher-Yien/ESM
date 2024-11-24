@@ -1,0 +1,159 @@
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\EmployeeSalaryMGProj.exe.config
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\EmployeeSalaryMGProj.exe
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\EmployeeSalaryMGProj.pdb
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.csproj.AssemblyReference.cache
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.csproj.SuggestedBindingRedirects.cache
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.FrmDepartment.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.Properties.Resources.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.csproj.GenerateResource.cache
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.csproj.CoreCompileInputs.cache
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.exe
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.pdb
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.FrmEmployee.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.FrmAddOrModifyEmployee.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.FrmUpdateBaseSalary.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmGrossSalary.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmChooseEmployeeToGetSlip.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmGenerateSlip.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.UserControlSalaryGross.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.Employees.FrmEmployeeDetail.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.FrmHome.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.Users.FrmUser.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.Users.FrmLogin.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\EnvDTE.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\stdole.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmPreviewSalarySlip.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.csproj.CopyComplete
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.Employees.FrmPreviewEmployeeList.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\obj\Debug\EmployeeSalaryMGProj.Employees.FrmPreviewIndividualEmployee.resources
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Database\EmployeeSalaryMG.mdf
+D:\Target document\C# programming\Revision\EmployeeSalaryMGProj\bin\Debug\Database\EmployeeSalaryMG_log.ldf
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Database\EmployeeSalaryMG.mdf
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Database\EmployeeSalaryMG_log.ldf
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\EmployeeSalaryMGProj.exe.config
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\EmployeeSalaryMGProj.exe
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\EmployeeSalaryMGProj.pdb
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.FrmAddOrModifyEmployee.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.FrmDepartment.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.FrmEmployee.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.Employees.FrmEmployeeDetail.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.Employees.FrmPreviewEmployeeList.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.Employees.FrmPreviewIndividualEmployee.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.FrmUpdateBaseSalary.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.FrmHome.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.Properties.Resources.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmChooseEmployeeToGetSlip.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmGenerateSlip.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmGrossSalary.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.FrmPreviewSalarySlip.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.SalaryPayments.UserControlSalaryGross.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.Users.FrmLogin.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.Users.FrmUser.resources
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\Employee.0C9EF961.Up2Date
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.exe
+C:\Users\Administrator\Desktop\esm-dotnetproject\obj\Debug\EmployeeSalaryMGProj.pdb
